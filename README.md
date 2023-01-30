@@ -8,3 +8,8 @@ mvn test
 
 To build the jar 
 mvn clean package
+
+To run the JAR
+java -jar target/robo-1.0-SNAPSHOT.jar /home/parteek/parteek/work/software/projects/java/WS/V1/testData/commands.txt
+
+
